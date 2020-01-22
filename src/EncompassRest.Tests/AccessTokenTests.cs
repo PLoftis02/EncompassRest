@@ -3,7 +3,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace EncompassRest.Tests
 {
-    [TestClass]
+    [Test]
     public class AccessTokenTests : TestBaseClass
     {
         [TestMethod]
